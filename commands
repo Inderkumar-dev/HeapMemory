@@ -1,0 +1,4 @@
+#Manage amount of available heap memory:
+#  java -Xms256s Helloworld - Initial heap size
+#  java -Xmx256m Helloworld - Maximum heap size
+#  java -Xmn256n Helloworld - Heap size for young generation objects
